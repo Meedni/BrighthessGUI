@@ -8,7 +8,7 @@
     <ProjectGuid>{747CE5B6-4FE5-4452-80CB-D9C1A922DF46}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BrighthessGUI</RootNamespace>
+    <RootNamespace>vibrance.GUI</RootNamespace>
     <AssemblyName>BrighthessGUI</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

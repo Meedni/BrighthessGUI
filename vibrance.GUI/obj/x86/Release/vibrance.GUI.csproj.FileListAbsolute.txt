@@ -1,4 +1,3 @@
-C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\bin\x86\Release\vibrance.GUI.exe
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Costura.dll
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\bin\x86\Release\MetroFramework.dll
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\bin\x86\Release\MetroFramework.Fonts.dll
@@ -10,7 +9,6 @@ C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.common.ProcessExplorer.resources
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.common.VibranceGUI.resources
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.common.VibranceSettings.resources
-C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.Properties.Resources.resources
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.GenerateResource.cache
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.Fody.CopyLocal.cache
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.csproj.CopyComplete
@@ -19,3 +17,4 @@ C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\bin\x86\Release\Brighthes
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\bin\x86\Release\BrighthessGUI.pdb
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\BrighthessGUI.exe
 C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\BrighthessGUI.pdb
+C:\Users\Medni\Desktop\vibranceGUI-master\vibrance.GUI\obj\x86\Release\vibrance.GUI.Properties.Resources.resources
